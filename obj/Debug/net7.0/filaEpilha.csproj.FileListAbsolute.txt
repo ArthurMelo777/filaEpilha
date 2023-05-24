@@ -1,0 +1,15 @@
+C:\Users\20221014040003\Desktop\filaEpilha\bin\Debug\net7.0\filaEpilha.exe
+C:\Users\20221014040003\Desktop\filaEpilha\bin\Debug\net7.0\filaEpilha.deps.json
+C:\Users\20221014040003\Desktop\filaEpilha\bin\Debug\net7.0\filaEpilha.runtimeconfig.json
+C:\Users\20221014040003\Desktop\filaEpilha\bin\Debug\net7.0\filaEpilha.dll
+C:\Users\20221014040003\Desktop\filaEpilha\bin\Debug\net7.0\filaEpilha.pdb
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\filaEpilha.csproj.AssemblyReference.cache
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\filaEpilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\filaEpilha.AssemblyInfoInputs.cache
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\filaEpilha.AssemblyInfo.cs
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\filaEpilha.csproj.CoreCompileInputs.cache
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\filaEpilha.dll
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\refint\filaEpilha.dll
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\filaEpilha.pdb
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\filaEpilha.genruntimeconfig.cache
+C:\Users\20221014040003\Desktop\filaEpilha\obj\Debug\net7.0\ref\filaEpilha.dll
